@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ekatrina Mishustina
-- 👀 I’m interested in Python programming, mathmatics, molecular biology and genetics. Of course it isn't all, but for other things I wave not enouth time:(
+- 👀 I’m interested in Python programming, mathmatics, molecular biology and genetics. Of course it isn't all, but for other things I have not enouth time:(
 - 🌱 I’m currently learning English, mathmatics and programming
 
 <!---
